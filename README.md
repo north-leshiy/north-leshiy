@@ -4,7 +4,7 @@
 - 13+ лет в IT. Прошел путь fullstack, teamlead
 - Организатор [Ростовского PHP сообщества](https://t.me/rndphp) (400 человек)
 - Влюблен в Linux, OpenSource.
-- Член программного комитета [Podlodka PHP Crew](https://podlodka.io/phpcrew)
+- Член программного комитета [Podlodka PHP Crew](https://podlodka.io/phpcrew) и TechLeadConf
 - Выступаю на многих митапах и конференциях
 
 ### Технический вектор и опыт
