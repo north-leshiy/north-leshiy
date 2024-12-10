@@ -1,9 +1,9 @@
 ### Иван Поддубный (north.leshiy)
 
 - CTO in [Webpractik](https://webpractik.ru/)
-- 14+ лет в IT. Прошел путь fullstack, teamlead
+- 15+ лет в IT. Прошел путь fullstack, teamlead
 - Организатор [Ростовского PHP сообщества](https://t.me/rndphp) (400 человек)
-- Член программного комитета [Podlodka PHP Crew](https://podlodka.io/phpcrew) и [TechLeadConf](https://techleadconf.ru/)
+- Член программного комитета [TechLeadConf](https://techleadconf.ru/) и [Podlodka PHP Crew](https://podlodka.io/phpcrew)
 - Выступаю на многих митапах и конференциях
 - Влюблен в Linux, OpenSource.
 
