@@ -35,7 +35,7 @@
 | 2024  | [HeisenBug Autumn SPB](https://heisenbug.ru/archive/2024%20Autumn/) | Круглый стол [Как провести этичное собеседование](https://heisenbug.ru/archive/2024%20Autumn/talks/14af76b0f9574531838f06d1b0067816/) |
 | 2024  | [FrontendConf](https://frontendconf.ru/moscow/2024) | [Архитектура безопасной авторизации на примере протоколов OAuth и OIDC](https://frontendconf.ru/moscow/2024/abstracts/12653) [запись](https://youtu.be/QuLRwuDqsUY) |
 | 2024  | [BoostConf](https://boostconf.ru/) | Круглый стол [Почему CTO не спит ночами](https://boostconf.ru/development-management#1717256858746) |
-| 2024  | [BoostConf](https://boostconf.ru/) | [Развитие сотрудников в агентсве](https://boostconf.ru/development-management#1717256858746) |
+| 2024  | [BoostConf](https://boostconf.ru/) | [Развитие сотрудников в агентстве](https://boostconf.ru/development-management#1717256858746) |
 | 2024  | [TeamLead Conf](https://knowledgeconf.ru/2024) | [Как построить матрицы компетенций с нуля](https://knowledgeconf.ru/2024/abstracts/11392) |
 | 2023  | Стрим Hexlet | [Куда идет PHP](https://www.youtube.com/watch?v=YskqH_Jv5rE) |
 | 2023  | [AnalystDays 17](https://analystdays.ru/ru/archive?eventId=109904) | [Docs-as-Code на пальцах](https://analystdays.ru/ru/talk/110725) [запись](https://www.youtube.com/watch?v=UmKtyUv2Dlo) |
