@@ -29,7 +29,7 @@
 | 2025  | Онлайн круглый стол | [Личная эффективность CTO](https://ctoconf.ru/2025/meetup)  |
 | 2025  | RnD IT Analytics | [Docs-as-Code для аналитика](https://www.youtube.com/watch?v=hD-_q6MZPXI&t=440s)  |
 | 2024  | [Канал CutCode](https://www.youtube.com/@CutCodeRu) | [Обзор PHP опроса 2024](https://www.youtube.com/live/S0-B0ixfZMc) |
-| 2024  | [TechLead Conf Moscow](https://techleadconf.ru/moscow/2024) | [ContractFirst- vs CodeFirst-подходы при построении процесса разработки](https://techleadconf.ru/moscow/2024/abstracts/13666) |
+| 2024  | [TechLead Conf Moscow](https://techleadconf.ru/moscow/2024) | [ContractFirst- vs CodeFirst-подходы при построении процесса разработки](https://techleadconf.ru/moscow/2024/abstracts/13666) [запись](https://www.youtube.com/watch?v=Uc2I5KEuuCE)|
 | 2024  | [AnalystDays 19](https://analystdays.ru/ru/archive?eventId=121860) | [Портрет Аналитика](https://analystdays.ru/ru/talk/126349) |
 | 2024  | [Merge Conf](https://skolkovo2024.mergeconf.ru/) | [Как запустить систему грейдов, чтобы удержать таланты и увеличить прибыль](https://skolkovo2024.mergeconf.ru/speakers/hr/education/poddubniy) |
 | 2024  | [HeisenBug Autumn SPB](https://heisenbug.ru/archive/2024%20Autumn/) | [Как провести этичное собеседование](https://heisenbug.ru/archive/2024%20Autumn/talks/14af76b0f9574531838f06d1b0067816/) |
@@ -54,5 +54,6 @@
 | 2019  | BitrixPower Сколково | Современный подход построения CMS с API |
 | 2019  | Krasnodar Dev Conf | Как выращивать мидлов |
 
-
+### Статьи
+- HABR [ContractFirst- vs CodeFirst-подходы, строим техпроцесс с нуля](https://habr.com/ru/companies/oleg-bunin/articles/914928/)
 
