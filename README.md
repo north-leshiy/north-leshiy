@@ -25,7 +25,7 @@
 ### Последние публичные выступления (часть)
 | Год | Где | Выступление |
 | ------------- | ------------- | ------------- |
-| 2025  | [CTO conf](https://ctoconf.ru/) | Как построить систему грейдирования и матрицу компетенций  |
+| 2025  | [CTO conf](https://ctoconf.ru/) | [Как построить систему грейдирования и матрицу компетенций](https://ctoconf.ru/2025/abstracts/14524)  |
 | 2025  | Онлайн круглый стол | [Личная эффективность CTO](https://ctoconf.ru/2025/meetup)  |
 | 2025  | RnD IT Analytics | [Docs-as-Code для аналитика](https://www.youtube.com/watch?v=hD-_q6MZPXI&t=440s)  |
 | 2024  | [Канал CutCode](https://www.youtube.com/@CutCodeRu) | [Обзор PHP опроса 2024](https://www.youtube.com/live/S0-B0ixfZMc) |
