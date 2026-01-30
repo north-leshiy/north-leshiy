@@ -27,7 +27,8 @@
 ### Последние публичные выступления (часть)
 | Год  | Где                                                                 | Выступление                                                                                                                                                                         |
 |------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025 | [RnD Analyst Conf](https://rnd-it-analytics-event.timepad.ru/event/3677573/) | Круглый стол по теме AI в работе аналитика                                                                                                                                 |
+| 2026 | [Small Tech](https://ontico.ru/allcfp/small-tech.html) | Модель зрелости внедрения AI в SDLC |
+| 2025 | [RnD Analyst Conf](https://rnd-it-analytics-event.timepad.ru/event/3677573/) | Круглый стол по теме AI в работе аналитика|
 | 2025 | [RnD PHP](https://www.youtube.com/@rndphp)                          | Сессия Q&A по теме AI в процессах SDLC                                                                                                                                              |
 | 2025 | [AnalystDays 21](https://analystdays.ru/ru/index?eventId=137857)    | [Контрактный подход при проектировании процессов](https://analystdays.ru/ru/talk/138127)                                                                                            |
 | 2025 | [TechLead Conf Moscow](https://teamleadconf.ru/moscow/2025)         | [RAG для лидов: архитектура и практика внедрения в реальные проекты](https://teamleadconf.ru/moscow/2025/abstracts/17076)                                                           |
