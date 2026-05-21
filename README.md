@@ -2,15 +2,15 @@
 
 - CTO in [Webpractik](https://webpractik.ru/)
 - 15+ лет в IT. Прошел путь fullstack, teamlead
-- Организатор [Ростовского PHP сообщества](https://t.me/rndphp) (500 человек)
-- Автор и совладелец [SkillsTeam](https://skillsteam.ru)
 - Член программного комитета
   - [TechLeadConf](https://techleadconf.ru/)
+  - [AgenticConf](https://agenticconf.ru/)
   - [CTO Conf](https://ctoconf.ru)
   - [ПЫХ Conf](https://conf.phpyh.ru)
-  - [Podlodka PHP Crew](https://podlodka.io/phpcrew)
+  - [Podlodka Crew](https://podlodka.io/phpcrew)
+- Автор и совладелец [SkillsTeam](https://skillsteam.ru)
+- Организатор [Ростовского PHP](https://t.me/rndphp) (500 человек) и других сообществ
 - Выступаю на многих митапах и конференциях
-- Помогаю с организацией региональным митапам
 - Влюблен в Linux, OpenSource.
 - Веду маленький скромный технический канал про инженерные процессы [Techlead stream](https://t.me/techlead_stream)
 
