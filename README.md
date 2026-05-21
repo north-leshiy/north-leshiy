@@ -10,7 +10,7 @@
   - [Podlodka Crew](https://podlodka.io/phpcrew)
 - Автор и совладелец [SkillsTeam](https://skillsteam.ru)
 - Организатор [Ростовского PHP](https://t.me/rndphp) (500 человек) и других сообществ
-- Выступаю на многих митапах и конференциях
+- Внедряю AI SDLC, не в космосе, но впереди многих
 - Влюблен в Linux, OpenSource.
 - Веду маленький скромный технический канал про инженерные процессы [Techlead stream](https://t.me/techlead_stream)
 
