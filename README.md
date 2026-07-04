@@ -27,6 +27,14 @@
 ### Последние публичные выступления (часть)
 | Год  | Где                                                                 | Выступление                                                                                                                                                                         |
 |------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2026 | [Agentic Dev Conf](https://agenticdevconf.ru/) | [Spec-Driven Development через все роли команды: как мы внедрили единый процесс](https://agenticdevconf.ru/talks/poddubny_ivan_talk) |
+| 2026 | [Arch.Meetup by Sber](https://developers.sber.ru/kak-v-sbere/events/arch_july_2026) | [От первых ассистентов до сквозного SDD: как мы внедряли AI в SDLC](https://developers.sber.ru/kak-v-sbere/events/arch_july_2026) |
+| 2026 | [Saint TeamLead Conf](https://teamleadconf.ru/spb/2026) | [Уровни зрелости внедрения AI в процессы разработки](https://teamleadconf.ru/spb/2026/abstracts/17890) |
+| 2026 | [Saint TeamLead Conf](https://teamleadconf.ru/spb/2026) | Круглый стол [Матрицы компетенций: от внедрения до пользы](https://teamleadconf.ru/spb/2026/abstracts/17610) |
+| 2026 | [Saint TeamLead Conf](https://teamleadconf.ru/spb/2026) | Круглый стол [Приведет ли внедрение AI-инструментов к сокращению ФОТ?](https://teamleadconf.ru/spb/2026/abstracts/18336) |
+| 2026 | [Saint HighLoad](https://highload.ru/spb/2026) | [Уровни зрелости внедрения AI в процессы разработки](https://highload.ru/spb/2026/abstracts/18340) |
+| 2026 | Мехмат | Выступление для преподавателей о преобразованиях в отрасли в связи с приходом AI |
+| 2026 | Подкаст Devhands | [Интервью на подкасте Devhands](https://t.me/techlead_stream/207) |
 | 2026 | [Small Tech](https://ontico.ru/allcfp/small-tech.html) | Модель зрелости внедрения AI в SDLC |
 | 2025 | [RnD Analyst Conf](https://rnd-it-analytics-event.timepad.ru/event/3677573/) | Круглый стол по теме AI в работе аналитика|
 | 2025 | [RnD PHP](https://www.youtube.com/@rndphp)                          | Сессия Q&A по теме AI в процессах SDLC                                                                                                                                              |
