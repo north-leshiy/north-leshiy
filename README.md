@@ -5,6 +5,7 @@
 - Член программного комитета
   - [TechLeadConf](https://techleadconf.ru/)
   - [AgenticConf](https://agenticconf.ru/)
+  - [AI Native conf](https://ainativeconf.ru/)
   - [CTO Conf](https://ctoconf.ru)
   - [ПЫХ Conf](https://conf.phpyh.ru)
   - [Podlodka Crew](https://podlodka.io/phpcrew)
