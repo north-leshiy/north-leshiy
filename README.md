@@ -31,6 +31,7 @@
 | 2026 | [TeamLead Conf Moscow](https://teamleadconf.ru/) |  |
 | 2026 | [AnalystDays 23](https://analystdays.ru/ru/index) | [Spec-Driven Development начинается с аналитика: как мы построили сквозной AI процесс разработки](https://analystdays.ru/ru/talk/150096) |
 | 2026 | [Podlodka Teamlead Crew](https://podlodka.io/tlcrew) | Доклад «Когда AI пишет весь код: что происходит с ролями в команде» |
+| 2026 | [BoostConf](https://boostconf.ru/) | [Внедрение Spec-driven development в команды и производство на старых проектах](https://boostconf.ru/program/development) |
 | 2026 | [AI Native Conf](https://ainativeconf.ru/) | Круглый стол [Куда пропали джуны и откуда возьмутся мидлы](https://ainativeconf.ru/talks/where-did-juniors-go/) |
 | 2026 | Podlodka AI Club | SDD в больших проектах и командах |
 | 2026 | [AAA CONF](https://aaa.events/) | 3 вектора развития AI SDLC |
