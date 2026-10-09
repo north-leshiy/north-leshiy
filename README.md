@@ -28,9 +28,9 @@
 ### Последние публичные выступления (часть)
 | Год  | Где                                                                 | Выступление                                                                                                                                                                         |
 |------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026 | [TeamLead Conf Moscow](https://teamleadconf.ru/) | Доклад, тема уточняется |
+| 2026 | [TeamLead Conf Moscow](https://teamleadconf.ru/) |  |
 | 2026 | [AnalystDays 23](https://analystdays.ru/ru/index) | [Spec-Driven Development начинается с аналитика: как мы построили сквозной AI процесс разработки](https://analystdays.ru/ru/talk/150096) |
-| 2026 | [Podlodka Teamlead Crew](https://podlodka.io/tlcrew) | Выступление в сезоне «Системный подход к AI в работе тимлида» |
+| 2026 | [Podlodka Teamlead Crew](https://podlodka.io/tlcrew) | Доклад «Когда AI пишет весь код: что происходит с ролями в команде» |
 | 2026 | [AI Native Conf](https://ainativeconf.ru/) | Круглый стол [Куда пропали джуны и откуда возьмутся мидлы](https://ainativeconf.ru/talks/where-did-juniors-go/) |
 | 2026 | Podlodka AI Club | SDD в больших проектах и командах |
 | 2026 | [AAA CONF](https://aaa.events/) | 3 вектора развития AI SDLC |
